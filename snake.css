@@ -1,0 +1,13 @@
+body {
+    
+    font-family:Quicksand;
+    text-align: center;
+    background: linear-gradient(45deg,#20141f,#431842,#430238);
+    appearance: none;
+}
+.hero h1{
+    color:rgb(0, 255, 128)
+}
+.hero h1 span{
+    color: #ff005d;
+}
